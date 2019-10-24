@@ -5,6 +5,11 @@ padding: 10px 20px;
 display: inline-block;
 border-radius: 15px 35px;
 }
+body{
+	background-image: src="pattern.png";
+	font-family:Helvetica, sans-serif;
+	color: white;
+}
 div.colums{
 width:30%;
 border: 2px solid white;
@@ -26,6 +31,7 @@ width:80%;
 text-align:center;
 margin: 2em;
 }
+
 a{
 color:yellow;
 text-decoration:underline overline;
